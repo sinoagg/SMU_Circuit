@@ -1,0 +1,58 @@
+Protel Design System Design Rule Check
+PCB File : D:\SINOAGG-2018\Ô´±í_2018\SMU_V2.01_PCB\SMU_V2.01.PcbDoc
+Date     : 2018/5/23
+Time     : 16:07:52
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: (128.346mil > 100mil) Pad J1-11(15394.862mil,5700.33mil) on Multi-Layer Actual Hole Size = 128.346mil
+   Violation between Hole Size Constraint: (128.346mil > 100mil) Pad J1-10(15394.862mil,6684.188mil) on Multi-Layer Actual Hole Size = 128.346mil
+Rule Violations :2
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GUARD Between Track (7177.026mil,9209.762mil)(7184.028mil,9202.76mil) on Component Side And Track (7182.048mil,9394.909mil)(7182.048mil,9516.648mil) on Component Side 
+   Violation between Un-Routed Net Constraint: Net GUARD Between Track (7184.028mil,8220.978mil)(7184.028mil,9202.76mil) on Component Side And Pad SENSE_H-2(7383.961mil,8220.978mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GUARD Between Pad FORCE_H-2(7186.468mil,9399.388mil) on Multi-Layer And Pad FORCE_H-2(7387.256mil,9399.388mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GUARD Between Pad FORCE_H-2(7186.468mil,9198.601mil) on Multi-Layer And Pad FORCE_H-2(7387.256mil,9198.601mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GUARD Between Pad SENSE_H-2(7183.174mil,8020.19mil) on Multi-Layer And Pad SENSE_H-2(7183.174mil,8220.978mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GUARD Between Pad SENSE_H-2(7183.174mil,8020.19mil) on Multi-Layer And Track (7383.961mil,8011.563mil)(7383.961mil,8020.19mil) on Component Side 
+Rule Violations :6
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 8
+Time Elapsed        : 00:00:07

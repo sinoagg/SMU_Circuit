@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=AGND Pin=C11-1
+Removed Pin From Net: NetName=5V Pin=C11-2
+Removed Pin From Net: NetName=AGND Pin=C12-1
+Removed Pin From Net: NetName=-5V Pin=C12-2
+Removed Pin From Net: NetName=AGND Pin=C107-1
+Removed Pin From Net: NetName=5V Pin=C107-2
+Removed Pin From Net: NetName=AGND Pin=C109-1
+Removed Pin From Net: NetName=-5V Pin=C109-2
+Removed Pin From Net: NetName=-5V Pin=U19-2
+Removed Pin From Net: NetName=NetR49_1 Pin=U19-3
+Removed Pin From Net: NetName=5V Pin=U19-5
+Removed Pin From Net: NetName=-5V Pin=U20-2
+Removed Pin From Net: NetName=NetR51_1 Pin=U20-3
+Removed Pin From Net: NetName=5V Pin=U20-5
+Removed Member From Class: ClassName=Analog Member=C11
+Removed Member From Class: ClassName=Analog Member=C12
+Removed Member From Class: ClassName=Analog Member=C107
+Removed Member From Class: ClassName=Analog Member=C109
+Removed Member From Class: ClassName=Analog Member=U19
+Removed Member From Class: ClassName=Analog Member=U20
+Added Pin To Net: NetName=NetR49_1 Pin=U17-10
+Added Pin To Net: NetName=NetR51_1 Pin=U18-10
+Added Room: Name=Analog
+Added Room: Name=Power

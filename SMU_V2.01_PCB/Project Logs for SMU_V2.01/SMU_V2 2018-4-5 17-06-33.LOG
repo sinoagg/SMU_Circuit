@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=AGND Pin=C7-2
+Removed Pin From Net: NetName=AGND Pin=C8-2
+Removed Pin From Net: NetName=AGND Pin=R55-1
+Removed Pin From Net: NetName=AGND Pin=R59-2
+Removed Pin From Net: NetName=1.25V Pin=U17-2
+Removed Pin From Net: NetName=5V Pin=U17-3
+Removed Pin From Net: NetName=1.25V Pin=U18-2
+Removed Pin From Net: NetName=5V Pin=U18-3
+Removed Member From Class: ClassName=Analog Member=C7
+Removed Member From Class: ClassName=Analog Member=C8
+Removed Member From Class: ClassName=Analog Member=C122
+Removed Member From Class: ClassName=Analog Member=C123
+Removed Member From Class: ClassName=Analog Member=C124
+Removed Member From Class: ClassName=Analog Member=C125
+Removed Member From Class: ClassName=Analog Member=R46
+Removed Member From Class: ClassName=Analog Member=R47
+Removed Member From Class: ClassName=Analog Member=R53
+Removed Member From Class: ClassName=Analog Member=R54
+Removed Member From Class: ClassName=Analog Member=R55
+Removed Member From Class: ClassName=Analog Member=R56
+Removed Member From Class: ClassName=Analog Member=R57
+Removed Member From Class: ClassName=Analog Member=R58
+Removed Member From Class: ClassName=Analog Member=R59
+Removed Member From Class: ClassName=Analog Member=R60
+Change Component DesignItemId : Designator=U17 Old DesignItemId=AD8137 New DesignItemId=AD8253
+Change Component DesignItemId : Designator=U18 Old DesignItemId=AD8137 New DesignItemId=AD8253
+Change Component Footprint: Designator=U17 Old Footprint=SO-8N New Footprint=RM-10
+Change Component Footprint: Designator=U18 Old Footprint=SO-8N New Footprint=RM-10
+Change Component Comment : Designator=U17 Old Comment=AD8137 New Comment=AD8253
+Change Component Comment : Designator=U18 Old Comment=AD8137 New Comment=AD8253
+Added Pin To Net: NetName=AGND Pin=U10-4
+Added Pin To Net: NetName=AGND Pin=U11-4
+Added Pin To Net: NetName=AGND Pin=U17-1
+Added Pin To Net: NetName=AGND Pin=U17-2
+Added Pin To Net: NetName=-5V Pin=U17-3
+Added Pin To Net: NetName=AGND Pin=U17-4
+Added Pin To Net: NetName=AGND Pin=U17-5
+Added Pin To Net: NetName=5V Pin=U17-8
+Added Pin To Net: NetName=1.25V Pin=U17-9
+Added Pin To Net: NetName=AGND Pin=U18-1
+Added Pin To Net: NetName=AGND Pin=U18-2
+Added Pin To Net: NetName=-5V Pin=U18-3
+Added Pin To Net: NetName=AGND Pin=U18-4
+Added Pin To Net: NetName=AGND Pin=U18-5
+Added Pin To Net: NetName=5V Pin=U18-8
+Added Pin To Net: NetName=1.25V Pin=U18-9
+Added Pin To Net: NetName=NetR29_1 Pin=R29-1
+Added Pin To Net: NetName=NetR29_1 Pin=U18-7
+Added Net: Name=NetR29_1
+Added Pin To Net: NetName=NetR30_1 Pin=R30-1
+Added Pin To Net: NetName=NetR30_1 Pin=U17-7
+Added Net: Name=NetR30_1
+Added Pin To Net: NetName=NetU17_10 Pin=U17-10
+Added Pin To Net: NetName=NetU17_10 Pin=U19-1
+Added Pin To Net: NetName=NetU17_10 Pin=U19-4
+Added Net: Name=NetU17_10
+Added Pin To Net: NetName=NetU18_10 Pin=U18-10
+Added Pin To Net: NetName=NetU18_10 Pin=U20-1
+Added Pin To Net: NetName=NetU18_10 Pin=U20-4
+Added Net: Name=NetU18_10
+Added Room: Name=Analog
+Added Room: Name=Power

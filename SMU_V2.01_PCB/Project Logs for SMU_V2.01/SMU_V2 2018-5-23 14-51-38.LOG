@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=NetR49_1 Pin=R136-2
+Removed Pin From Net: NetName=NetR51_1 Pin=R137-2
+Removed Pin From Net: NetName=AGND Pin=S1-2
+Removed Pin From Net: NetName=AGND Pin=S2-2
+Removed Pin From Net: NetName=AGND Pin=S3-2
+Removed Pin From Net: NetName=AGND Pin=S4-2
+Removed Pin From Net: NetName=AGND Pin=U17-4
+Removed Pin From Net: NetName=AGND Pin=U17-5
+Removed Pin From Net: NetName=-5V Pin=U17-6
+Removed Pin From Net: NetName=AGND Pin=U18-4
+Removed Pin From Net: NetName=AGND Pin=U18-5
+Removed Pin From Net: NetName=-5V Pin=U18-6
+Removed Member From Class: ClassName=Analog Member=R136
+Removed Member From Class: ClassName=Analog Member=R137
+Removed Member From Class: ClassName=Analog Member=S1
+Removed Member From Class: ClassName=Analog Member=S2
+Removed Member From Class: ClassName=Analog Member=S3
+Removed Member From Class: ClassName=Analog Member=S4
+Change Component Comment : Designator=R49 Old Comment=2.2K New Comment=11K
+Change Component Comment : Designator=R51 Old Comment=2.2K New Comment=11K
+Change Component Comment : Designator=R50 Old Comment=9.1K New Comment=1K
+Change Component Comment : Designator=R52 Old Comment=9.1K New Comment=1K
+Added Pin To Net: NetName=AGND Pin=R50-1
+Added Pin To Net: NetName=AGND Pin=R52-1
+Added Pin To Net: NetName=PGA1_A0 Pin=U1-61
+Added Pin To Net: NetName=PGA1_A0 Pin=U17-4
+Added Net: Name=PGA1_A0
+Added Pin To Net: NetName=PGA1_A1 Pin=U1-62
+Added Pin To Net: NetName=PGA1_A1 Pin=U17-5
+Added Net: Name=PGA1_A1
+Added Pin To Net: NetName=PGA1_WR Pin=U1-59
+Added Pin To Net: NetName=PGA1_WR Pin=U17-6
+Added Net: Name=PGA1_WR
+Added Pin To Net: NetName=PGA2_A0 Pin=U1-3
+Added Pin To Net: NetName=PGA2_A0 Pin=U18-4
+Added Net: Name=PGA2_A0
+Added Pin To Net: NetName=PGA2_A1 Pin=U1-4
+Added Pin To Net: NetName=PGA2_A1 Pin=U18-5
+Added Net: Name=PGA2_A1
+Added Pin To Net: NetName=PGA2_WR Pin=U1-2
+Added Pin To Net: NetName=PGA2_WR Pin=U18-6
+Added Net: Name=PGA2_WR
+Added Room: Name=Analog
+Added Room: Name=Power
