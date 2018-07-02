@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=PGA2_A0 Pin=U1-3
-Removed Pin From Net: NetName=PGA2_A1 Pin=U1-4
-Added Pin To Net: NetName=PGA2_A1 Pin=U1-34
-Added Pin To Net: NetName=PGA2_A0 Pin=U1-50
-Added Room: Name=Analog
-Added Room: Name=Power

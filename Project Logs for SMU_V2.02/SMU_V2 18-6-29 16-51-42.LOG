@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DUT_VOLTAGE Pin=K12-1
+Removed Pin From Net: NetName=R_VOLTAGE Pin=K12-6
+Removed Pin From Net: NetName=PGA2_WR Pin=R29-1
+Added Pin To Net: NetName=NetR51_1 Pin=K12-1
+Added Pin To Net: NetName=NetR49_1 Pin=K12-6
+Change Net Name : Old Net Name=NetR49_1 New Net Name=R_VOL_DIV
+Change Net Name : Old Net Name=NetR51_1 New Net Name=DUT_VOL_DIV
+Added Pin To Net: NetName=NetR29_1 Pin=R29-1
+Added Pin To Net: NetName=NetR29_1 Pin=U18-7
+Added Net: Name=NetR29_1
+Added Member To Class: ClassName=Analog Member=Component C15 10uF
+Added Member To Class: ClassName=Analog Member=Component C17 10uF

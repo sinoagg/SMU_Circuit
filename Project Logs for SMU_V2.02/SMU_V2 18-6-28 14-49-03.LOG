@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=DGND Pin=DL-5
+Added Pin To Net: NetName=AGND Pin=DL-5
