@@ -73,24 +73,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FIKKGYDS
 
 [Document3]
-DocumentPath=MCU.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PAVWFVBQ
-
-[Document4]
-DocumentPath=SMU_V2.02.PcbDoc
+DocumentPath=SMU_V2.03.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -106,8 +89,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OSWAPXMW
 
+[Document4]
+DocumentPath=ReadMe.txt
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for SMU_V2.02\Design Rule Check - SMU_V2.html
+DocumentPath=Project Outputs for SMU_V2.03\Design Rule Check - SMU_V2.html
 DItemRevisionGUID=
 
 [Configuration1]

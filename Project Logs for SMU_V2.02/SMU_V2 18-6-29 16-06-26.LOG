@@ -1,8 +1,0 @@
-Added Component: Designator=C15(6032_pol)
-Added Component: Designator=C17(6032_pol)
-Added Pin To Net: NetName=5V Pin=C15-1
-Added Pin To Net: NetName=AGND Pin=C15-2
-Added Pin To Net: NetName=5V Pin=C17-1
-Added Pin To Net: NetName=AGND Pin=C17-2
-Added Member To Class: ClassName=Analog Member=Component C15 10uF
-Added Member To Class: ClassName=Analog Member=Component C17 10uF
